@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/yuanhau.com.ico",
     "slug": "",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.48%",
+    "uptimeDay": "53.95%",
+    "uptimeWeek": "93.42%",
+    "uptimeMonth": "98.49%",
+    "uptimeYear": "99.48%",
     "time": 1596,
-    "timeDay": 1665,
-    "timeWeek": 1513,
-    "timeMonth": 1518,
+    "timeDay": 1661,
+    "timeWeek": 1539,
+    "timeMonth": 1526,
     "timeYear": 1596,
     "dailyMinutesDown": {
-      "2024-11-25": 0
+      "2024-11-26": 9,
+      "2024-11-25": 654
     }
   },
   {
@@ -25,18 +26,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/git.hwtw.cc.ico",
     "slug": "git",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.48%",
+    "uptimeDay": "53.95%",
+    "uptimeWeek": "93.42%",
+    "uptimeMonth": "98.49%",
+    "uptimeYear": "99.48%",
     "time": 1146,
-    "timeDay": 1585,
-    "timeWeek": 1261,
-    "timeMonth": 1207,
+    "timeDay": 0,
+    "timeWeek": 1296,
+    "timeMonth": 1202,
     "timeYear": 1146,
     "dailyMinutesDown": {
-      "2024-11-25": 0
+      "2024-11-26": 9,
+      "2024-11-25": 654
     }
   },
   {
@@ -45,18 +47,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/yuanh.xyz.ico",
     "slug": "",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.48%",
+    "uptimeDay": "53.95%",
+    "uptimeWeek": "93.42%",
+    "uptimeMonth": "98.49%",
+    "uptimeYear": "99.48%",
     "time": 1596,
-    "timeDay": 1665,
-    "timeWeek": 1513,
-    "timeMonth": 1518,
+    "timeDay": 1661,
+    "timeWeek": 1539,
+    "timeMonth": 1526,
     "timeYear": 1596,
     "dailyMinutesDown": {
-      "2024-11-25": 0
+      "2024-11-26": 9,
+      "2024-11-25": 654
     }
   }
 ]
