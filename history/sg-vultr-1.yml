@@ -1,7 +1,7 @@
-url: https://sg-vps.ip.yhw.tw/uptime
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-03-08T02:33:53.471Z
+url: http://sg-vps.ip.yhw.tw/uptime
+status: up
+code: 200
+responseTime: 507
+lastUpdated: 2025-03-08T03:50:45.352Z
 startTime: 2025-03-08T02:33:52.147Z
 generator: Upptime <https://github.com/upptime/upptime>
