@@ -3,18 +3,14 @@ owner: hpware
 repo: upptime # The name of this repository
 
 sites:
-  - name: 主頁
-    url: https://yuanhau.com
-  - name: Git 系統
-    url: https://git.yuanhau.com
-  - name: Wordpress
-    url: https://wp.yuanhau.com
-  - name: 網址縮短器
-    url: https://yhw.tw
-  - name: 公開版網址縮短器
-    url: https://pl.yhw.tw
-  - name: MD 讀取器
-    url: https://md.yhw.tw
+  - name: SG_VULTR_1
+    url: https://sg-vps.ip.yhw.tw/uptime
+  - name: TW_SERVER_1
+    url: https://tw-54.ip.yhw.tw/uptime
+  - name: TW_SERVER_2
+    url: https://tw-dynamic-1.yhw.tw/uptime
+  - name: TW_SERVER_3
+    url: https://tw-dynamic-2.yhw.tw/uptime
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -22,14 +18,12 @@ status-website:
   cname: status.yuanhau.com
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "yuanhau.com Status"
+  name: yhw.tw Statuss
+  introTitle: "status.yhw.tw"
   introMessage: 
   navbar:
-    - title: 主頁
-      href: https://yuanhau.com/
-    - title: Status
-      href: /
+    - title: Threads
+      href: https://threads.net/@yhw_tw
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
