@@ -4,13 +4,13 @@ repo: upptime # The name of this repository
 
 sites:
   - name: SG_VULTR_1
-    url: https://sg-vps.ip.yhw.tw/uptime
+    url: http://sg-vps.ip.yhw.tw/uptime
   - name: TW_SERVER_1
-    url: https://tw-54.ip.yhw.tw/uptime
+    url: http://tw-54.ip.yhw.tw/uptime
   - name: TW_SERVER_2
-    url: https://tw-dynamic-1.yhw.tw/uptime
+    url: http://tw-dynamic-1.yhw.tw/uptime
   - name: TW_SERVER_3
-    url: https://tw-dynamic-2.yhw.tw/uptime
+    url: http://tw-dynamic-2.yhw.tw/uptime
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
