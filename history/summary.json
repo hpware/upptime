@@ -4,7 +4,7 @@
     "url": "http://sg-vps.ip.yhw.tw/uptime",
     "icon": "https://icons.duckduckgo.com/ip3/sg-vps.ip.yhw.tw.ico",
     "slug": "sg-vultr-1",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 472,
     "timeYear": 471,
     "dailyMinutesDown": {
+      "2025-04-22": 0,
       "2025-03-08": 73
     }
   },
@@ -36,7 +37,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-04-22": 9,
+      "2025-04-22": 360,
       "2025-04-21": 1440,
       "2025-04-20": 1440,
       "2025-04-19": 1440,
@@ -101,7 +102,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-04-22": 9,
+      "2025-04-22": 360,
       "2025-04-21": 1440,
       "2025-04-20": 1440,
       "2025-04-19": 1440,
@@ -166,7 +167,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-04-22": 9,
+      "2025-04-22": 360,
       "2025-04-21": 1440,
       "2025-04-20": 1440,
       "2025-04-19": 1440,
